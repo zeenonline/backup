@@ -143,7 +143,7 @@
  </section>
 	<section id="work_h" class="p_3">
 		<div class="container-xl">
-			<div class="row work_h1 text-center mb-4">
+			<div class="row work_h1 text-center">
 				<div class="col-md-12">
 					<h2>How It Works</h2>
 					<hr class="line mx-auto">
@@ -152,11 +152,12 @@
 			</div>
 			<div class="row work_h2">
 				<div class="col-md-12">
-					<div class="work_h2i p-4 rounded_10 text-center">
-						<p class="mb-0">Launching your real estate marketing campaign is now simpler than ever. Propelyze enables you to quickly identify target areas, set pricing, access property owner details, and clean your data, all in just moments! We streamline research, comparison, and data management, giving you more time to focus on successful property flips.
-
-Our services cover both Vacant Land and Residential Properties, with all data updated in real time from DataTree.
+					<div class="work_h2i py-4 px-5 rounded_10 text-center">
+						<p class="mb-3">Launching your real estate marketing campaign is now simpler than ever. Propelyze enables you to quickly identify target areas, set pricing, access property owner details, and clean your data, all in just moments! We streamline research, comparison, and data management, giving you more time to focus on successful property flips.
 </p>
+						<p class="mb-0">
+							Our services cover both Vacant Land and Residential Properties, with all data updated in real time from DataTree.
+						</p>
 					</div>
 				</div>
 				
@@ -372,7 +373,7 @@ Our services cover both Vacant Land and Residential Properties, with all data up
 		</div>
 	</section-->
 
-	<section id="subs" class="p_3">
+	<!-- <section id="subs" class="p_3">
 		<div class="container-xl">
 			<div class="row subs_1 mb-4">
 				<div class="col-md-8">
@@ -596,7 +597,7 @@ Our services cover both Vacant Land and Residential Properties, with all data up
 										<p class="mb-0">While Propelyze offers significant automation, it cannot replace your decision-making. You will still need to make strategic choices regarding your mailing targets and the content of your offers.</p>
 									</div>
 								</div>
-							</div>
+							</div> -->
 
 							<!--div class="accordion-item">
 								<h2 class="accordion-header" id="Headingsix">
@@ -679,7 +680,7 @@ Our services cover both Vacant Land and Residential Properties, with all data up
 									</div>
 								</div>
 							</div-->
-						</div>
+						<!-- </div>
 					</div>
 				</div>
 			</div>
@@ -703,7 +704,7 @@ Our services cover both Vacant Land and Residential Properties, with all data up
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	@include('layouts.footer')
 
