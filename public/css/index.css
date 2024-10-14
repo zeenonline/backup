@@ -23,9 +23,9 @@ padding:12px 12px;
 
 /*********************work_h****************/
 .work_h2i span{
-width:80px;
-height:80px;
-line-height:20px; 
+    width: 80px;
+    height: 80px;
+    line-height: 75px;
  }
 #explore .carousel-indicators [data-bs-target] {
  background-color:#fff; 
